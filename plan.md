@@ -1,0 +1,3 @@
+susidaryti struktura
+
+susikarpyti nuotraukas
