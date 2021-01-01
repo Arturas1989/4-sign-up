@@ -10,7 +10,7 @@ body{
         background-image: url(../img/hill.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        filter: blur(30px);
+        filter: blur(40px);
         position: relative;
 }
 
